@@ -1,0 +1,14 @@
+1 Kiss Anna 1989 6304578 igen OLTVA
+2 Horvath Mihaly 1979 6703424 nem OLTVA
+3 Toth Karoly 2000 62054354 igen OLTVA
+4 Sallai Nikol 1997 63034234 nem OLTVA
+5 Jakab Emanuel 1995 67034234 igen OLTVA
+6 Ivanyi Lajos 1956 63078667 igen OLTVA
+7 Fekete Zoe 1987 63035784 nem OLTVA
+8 Mraz Emilia 2001 6204535 nem OLTVA
+9 Halasz Kristof 1978 63045354 igen OLTVA
+10 Barath Daniel 1999 670432424 nem OLTVA
+11 Kosa Bertalan 1965 630432467 igen OLTVA
+12 Szemes Istvan 2001 620897676 igen OLTVA
+13 Pasztor Norbert 1982 63047587 nem OLTVA
+14 Kiss Liliana 1994 670432586 igen OLTVA
